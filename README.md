@@ -1,2 +1,2 @@
 # Modelagem-de-Banco-de-Dados
-repositorio pra proejtos e atividas
+repositorio pra proejtos e atividades
